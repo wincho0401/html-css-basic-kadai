@@ -1,0 +1,28 @@
+:root {
+    font-size: 20px;
+    text-align: center;
+}
+
+.body {
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 200%;
+    letter-spacing: 1.2em;
+    text-shadow: 0.1em 0.1em 1em black;
+    border-bottom: solid 1px black;
+}
+
+.profile-color-1 {
+    color: skyblue;
+}
+
+.profile-color-2 {
+    color: rgb(255, 192, 203);
+}
+
+#basic p {
+    font-weight: bold;
+}
